@@ -1,0 +1,20 @@
+/* zerando o arquivo CSS, para que as bordas não fique branca*/
+*{
+    padding: 0; /* serve para expaçamento tanto na altura e largura*/
+    margin: 0; /* alterando a margem, zerando a margem*/
+    box-sizing: border-box; /* sempre colocar*/
+}
+
+body{
+    background-color: #263838;
+}
+
+#ImageUser{
+    background-color: white;
+    width: 90px;
+    height: 90px;
+    position: relative ;
+    top: 12vh;
+    left: 6%;
+    border-radius: 90px;
+}

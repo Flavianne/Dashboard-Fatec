@@ -1,0 +1,19 @@
+
+*/ 
+
+div= divisão do espaço;
+class = class é utilizada para elementos que repetem muitas vezes;
+id = é utilizado quando o elemento é único na página;
+
+width = largura da tela;
+height= altura da tela;
+border= borda do container ou site;
+solid= faz aparecer a borda na tela, tornando a visivel;
+display = inline-flex = ajuste na tela de forma horizontal dentro do conteiner;
+top= de cima para baixo mexendo na altura;
+border-radius = colocar as imagens em circulo.
+
+# = para ID;
+. = para Class;
+
+** Usar vh se possivel, apenas quando for imagem utilizar px;
