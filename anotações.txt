@@ -13,6 +13,8 @@ display = inline-flex = ajuste na tela de forma horizontal dentro do conteiner;
 top= de cima para baixo mexendo na altura;
 border-radius = colocar as imagens em circulo.
 
+span=permite que insira qualquel coisa tipo imagem, titulo ... etc.
+
 # = para ID;
 . = para Class;
 

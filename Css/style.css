@@ -1,3 +1,4 @@
+
 /* zerando o arquivo CSS, para que as bordas não fique branca*/
 *{
     padding: 0; /* serve para expaçamento tanto na altura e largura*/
@@ -11,10 +12,89 @@ body{
 
 #ImageUser{
     background-color: white;
-    width: 90px;
-    height: 90px;
+    width: 90px; /*largura*/
+    height: 90px; /* altura*/
     position: relative ;
     top: 12vh;
     left: 6%;
     border-radius: 90px;
 }
+
+.btnbotoes{
+    border: 1px solid white;
+    width: 18%;
+    height: 56vh;
+    position: relative;
+    top: 20vh; 
+}
+
+#btnlateral{
+    border: none;
+    background-color: transparent;
+    width: 100%;
+    height: 9vh;
+}
+
+#btnlateral:hover{
+    background-color: #B0C4DE;   
+}
+
+#btnlateral0{
+    border: none;
+    background-color: transparent;
+    width: 100%;
+    height:8.5vh;
+}
+
+#btnlateral0:hover{
+    background-color: #B0C4DE;   
+}
+
+#led-color{
+    width: 8px;
+    height:8.5vh;
+    position: absolute;
+    background-color: white;
+
+}
+
+#led-color1{
+    width: 8px;
+    height:9vh;
+    position: absolute;
+    background-color: white;
+
+}
+
+#led-color2{
+    width: 8px;
+    height:9vh;
+    position: absolute;
+    background-color: white;
+
+}
+
+#led-color3{
+    width: 8px;
+    height:9vh;
+    position: absolute;
+    background-color: white;
+
+}
+
+#led-color4{
+    width: 8px;
+    height:9vh;
+    position: absolute;
+    background-color: white;
+
+}
+
+#led-color5{
+    width: 8px;
+    height:9vh;
+    position: absolute;
+    background-color: white;
+
+}
+
